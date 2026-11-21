@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a58083a64f7bb4ebc0f795df40fe22, type: 3}
+  m_Name: DailyItemConfig
+  m_EditorClassIdentifier: 
+  TotalDaily:
+  - DayStt: 第1天
+    Name: 自动合成
+    Id: 1
+    Icon: {fileID: 21300000, guid: 2362a30b532cf8042aec69960e3cedf5, type: 3}
+    DailyType: 5
+    HeSo: 1
+    SoMu: 0
+    Description: 获得 {0} 个自动合成
+    SymbolReceived: x{0}
+  - DayStt: 第2天
+    Name: 合成勋章
+    Id: 2
+    Icon: {fileID: 21300000, guid: f7a6f089190c11d4692306494e78d48a, type: 3}
+    DailyType: 1
+    HeSo: 50
+    SoMu: 0
+    Description: 获得 50 个合成勋章
+    SymbolReceived: x50
+  - DayStt: 第3天
+    Name: 星星
+    Id: 3
+    Icon: {fileID: 21300000, guid: 3cce6b87b5a553d41afa025db0178fa3, type: 3}
+    DailyType: 6
+    HeSo: 1
+    SoMu: 2
+    Description: 获得 100 颗星星
+    SymbolReceived: x100
+  - DayStt: 第4天
+    Name: 强化宝箱 x1
+    Id: 4
+    Icon: {fileID: 21300000, guid: 72d09e726b873de40818d289af12dfec, type: 3}
+    DailyType: 3
+    HeSo: 1
+    SoMu: 0
+    Description: 获得随机强化
+    SymbolReceived: x1
+  - DayStt: 第5天
+    Name: 宝石
+    Id: 5
+    Icon: {fileID: 21300020, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+    DailyType: 4
+    HeSo: 50
+    SoMu: 0
+    Description: 获得 50 宝石
+    SymbolReceived: x50
+  - DayStt: 第6天
+    Name: 自动合成
+    Id: 6
+    Icon: {fileID: 21300000, guid: 2362a30b532cf8042aec69960e3cedf5, type: 3}
+    DailyType: 5
+    HeSo: 2
+    SoMu: 0
+    Description: 获得 2 个自动合成
+    SymbolReceived: x2
+  - DayStt: 第7天
+    Name: 合成勋章
+    Id: 7
+    Icon: {fileID: 21300000, guid: f7a6f089190c11d4692306494e78d48a, type: 3}
+    DailyType: 1
+    HeSo: 100
+    SoMu: 0
+    Description: 获得 100 个合成勋章
+    SymbolReceived: x100
+  - DayStt: 第8天
+    Name: 星星
+    Id: 8
+    Icon: {fileID: 21300000, guid: 3cce6b87b5a553d41afa025db0178fa3, type: 3}
+    DailyType: 6
+    HeSo: 2
+    SoMu: 2
+    Description: 获得 200 颗星星
+    SymbolReceived: x200
+  - DayStt: 第9天
+    Name: 强化宝箱
+    Id: 9
+    Icon: {fileID: 21300000, guid: 72d09e726b873de40818d289af12dfec, type: 3}
+    DailyType: 3
+    HeSo: 2
+    SoMu: 0
+    Description: 获得随机强化宝箱
+    SymbolReceived: x2
+  - DayStt: 第10天
+    Name: 宝石
+    Id: 10
+    Icon: {fileID: 21300020, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+    DailyType: 4
+    HeSo: 60
+    SoMu: 0
+    Description: 获得 60 宝石
+    SymbolReceived: x60
+  - DayStt: 第11天
+    Name: 自动合成
+    Id: 11
+    Icon: {fileID: 21300000, guid: 2362a30b532cf8042aec69960e3cedf5, type: 3}
+    DailyType: 5
+    HeSo: 3
+    SoMu: 0
+    Description: 获得 3 个自动合成
+    SymbolReceived: x3
+  - DayStt: 第12天
+    Name: 合成勋章
+    Id: 12
+    Icon: {fileID: 21300000, guid: f7a6f089190c11d4692306494e78d48a, type: 3}
+    DailyType: 1
+    HeSo: 150
+    SoMu: 0
+    Description: 获得 150 个合成勋章
+    SymbolReceived: x150
+  - DayStt: 第13天
+    Name: 星星
+    Id: 13
+    Icon: {fileID: 21300000, guid: 3cce6b87b5a553d41afa025db0178fa3, type: 3}
+    DailyType: 6
+    HeSo: 3
+    SoMu: 2
+    Description: 获得 300 颗星星
+    SymbolReceived: x300
+  - DayStt: 第14天
+    Name: 强化宝箱
+    Id: 14
+    Icon: {fileID: 21300000, guid: 72d09e726b873de40818d289af12dfec, type: 3}
+    DailyType: 3
+    HeSo: 3
+    SoMu: 0
+    Description: 获得随机强化
+    SymbolReceived: x3
+  - DayStt: 第15天
+    Name: 宝石
+    Id: 15
+    Icon: {fileID: 21300020, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+    DailyType: 4
+    HeSo: 70
+    SoMu: 0
+    Description: 获得 70 宝石
+    SymbolReceived: x70
+  - DayStt: 第16天
+    Name: 自动合成
+    Id: 16
+    Icon: {fileID: 21300000, guid: 2362a30b532cf8042aec69960e3cedf5, type: 3}
+    DailyType: 5
+    HeSo: 4
+    SoMu: 0
+    Description: 获得 4 个自动合成
+    SymbolReceived: x4
+  - DayStt: 第17天
+    Name: 合成勋章
+    Id: 17
+    Icon: {fileID: 21300000, guid: f7a6f089190c11d4692306494e78d48a, type: 3}
+    DailyType: 1
+    HeSo: 200
+    SoMu: 0
+    Description: 获得 200 个合成勋章
+    SymbolReceived: x200
+  - DayStt: 第18天
+    Name: 星星
+    Id: 18
+    Icon: {fileID: 21300000, guid: 3cce6b87b5a553d41afa025db0178fa3, type: 3}
+    DailyType: 6
+    HeSo: 4
+    SoMu: 2
+    Description: 获得 400 颗星星
+    SymbolReceived: x400
+  - DayStt: 第19天
+    Name: 强化宝箱
+    Id: 19
+    Icon: {fileID: 21300000, guid: 72d09e726b873de40818d289af12dfec, type: 3}
+    DailyType: 3
+    HeSo: 4
+    SoMu: 0
+    Description: 获得随机强化
+    SymbolReceived: x4
+  - DayStt: 第20天
+    Name: 宝石
+    Id: 20
+    Icon: {fileID: 21300020, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+    DailyType: 4
+    HeSo: 80
+    SoMu: 0
+    Description: 获得 80 宝石
+    SymbolReceived: x80
+  - DayStt: 第21天
+    Name: 自动合成
+    Id: 21
+    Icon: {fileID: 21300000, guid: 2362a30b532cf8042aec69960e3cedf5, type: 3}
+    DailyType: 5
+    HeSo: 5
+    SoMu: 0
+    Description: 获得 5 个自动合成
+    SymbolReceived: x5
+  - DayStt: 第22天
+    Name: 合成勋章
+    Id: 22
+    Icon: {fileID: 21300000, guid: f7a6f089190c11d4692306494e78d48a, type: 3}
+    DailyType: 1
+    HeSo: 250
+    SoMu: 0
+    Description: 获得 250 个合成勋章
+    SymbolReceived: x250
+  - DayStt: 第23天
+    Name: 星星
+    Id: 23
+    Icon: {fileID: 21300000, guid: 3cce6b87b5a553d41afa025db0178fa3, type: 3}
+    DailyType: 6
+    HeSo: 5
+    SoMu: 2
+    Description: 获得 500 颗星星
+    SymbolReceived: x500
+  - DayStt: 第24天
+    Name: 强化宝箱
+    Id: 24
+    Icon: {fileID: 21300000, guid: 72d09e726b873de40818d289af12dfec, type: 3}
+    DailyType: 3
+    HeSo: 5
+    SoMu: 0
+    Description: 获得随机强化
+    SymbolReceived: x5
+  - DayStt: 第25天
+    Name: 宝石
+    Id: 25
+    Icon: {fileID: 21300020, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+    DailyType: 4
+    HeSo: 90
+    SoMu: 0
+    Description: 获得 90 宝石
+    SymbolReceived: x90
+  - DayStt: 第26天
+    Name: 自动合成
+    Id: 26
+    Icon: {fileID: 21300000, guid: 2362a30b532cf8042aec69960e3cedf5, type: 3}
+    DailyType: 5
+    HeSo: 6
+    SoMu: 0
+    Description: 获得 6 个自动合成
+    SymbolReceived: x6
+  - DayStt: 第27天
+    Name: 合成勋章
+    Id: 27
+    Icon: {fileID: 21300000, guid: f7a6f089190c11d4692306494e78d48a, type: 3}
+    DailyType: 1
+    HeSo: 300
+    SoMu: 0
+    Description: 获得 300 个合成勋章
+    SymbolReceived: x300
+  - DayStt: 第28天
+    Name: 星星
+    Id: 28
+    Icon: {fileID: 21300000, guid: 3cce6b87b5a553d41afa025db0178fa3, type: 3}
+    DailyType: 6
+    HeSo: 6
+    SoMu: 2
+    Description: 获得 600 颗星星
+    SymbolReceived: x600
+  - DayStt: 第29天
+    Name: 强化宝箱
+    Id: 29
+    Icon: {fileID: 21300000, guid: 72d09e726b873de40818d289af12dfec, type: 3}
+    DailyType: 3
+    HeSo: 6
+    SoMu: 0
+    Description: '获得随机强化'
+    SymbolReceived: x6
+  - DayStt: 第30天
+    Name: 宝石
+    Id: 30
+    Icon: {fileID: 21300020, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+    DailyType: 4
+    HeSo: 150
+    SoMu: 0
+    Description: 获得 150 宝石
+    SymbolReceived: x150

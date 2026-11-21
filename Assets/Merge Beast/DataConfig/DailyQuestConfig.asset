@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18dc3e790a05a2d4fb37bcf4fd6ac62f, type: 3}
+  m_Name: DailyQuestConfig
+  m_EditorClassIdentifier: 
+  DailyQuest:
+    m_keys: 00000000010000000200000003000000040000000500000006000000070000000800000009000000
+    m_values:
+    - EnumType: 0
+      Types: f4010000e8030000dc050000
+      Description: 合成猫咪 {0} 次。
+      IconQuest: {fileID: 21300042, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 1
+      Types: 1e0000002800000032000000
+      Description: 使用免费强化 {0} 次。
+      IconQuest: {fileID: 21300036, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 2
+      Types: 030000000500000007000000
+      Description: 升级生成等级或生成速度 {0} 次。
+      IconQuest: {fileID: 21300046, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 3
+      Types: 20030000e8030000b0040000
+      Description: 从快速购买或商店获得 {0} 只猫。
+      IconQuest: {fileID: 21300040, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 4
+      Types: 320000006400000096000000
+      Description: 使用合成勋章 {0} 次。
+      IconQuest: {fileID: 21300022, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 5
+      Types: 0100000002000000
+      Description: 飞升 {0} 次。
+      IconQuest: {fileID: 21300026, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 6
+      Types: 030000000500000006000000
+      Description: 击败 BOSS {0} 次。
+      IconQuest: {fileID: 21300038, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 7
+      Types: 050000000a0000000f000000
+      Description: 观看广告 {0} 次。
+      IconQuest: {fileID: 21300030, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 8
+      Types: 010000000200000003000000
+      Description: 使用自动合成 {0} 次。
+      IconQuest: {fileID: 21300044, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+    - EnumType: 9
+      Types: 010000000200000003000000
+      Description: 在星星商店购买 {0} 件商品。
+      IconQuest: {fileID: 21300034, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  ListMission:
+  - MissionName: Raid Boss
+    Type: 0
+    Targets: 0a000000140000001e00000028000000320000003c00000046000000500000005a00000064000000
+    Description: 通关 BOSS 关卡 {0}。
+    IconMission: {fileID: 21300060, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Unlock Beast
+    Type: 1
+    Targets: 0a000000140000001e00000028000000320000003c00000046000000500000005a00000064000000
+    Description: 解锁猫咪等级 {0}。
+    IconMission: {fileID: 21300064, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Collect Star
+    Type: 2
+    Targets: f4010000e803000088130000204e0000a086010020a1070040420f0080841e00404b4c0080969800
+    Description: 收集 {0} 颗星星。
+    IconMission: {fileID: 21300068, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Get Beast
+    Type: 3
+    Targets: f4010000e803000088130000204e0000a086010020a1070040420f00404b4c008096980080f0fa02
+    Description: 从快速购买或商店获得 {0} 只猫。
+    IconMission: {fileID: 21300072, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Upgrade Level Spawn
+    Type: 4
+    Targets: 050000000a0000000f00000014000000190000001e00000023000000280000002d00000032000000
+    Description: 将生成等级升到 {0} 级。
+    IconMission: {fileID: 21300078, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Upgrade Time Spawn
+    Type: 5
+    Targets: 050000000a0000000f00000014000000190000001e00000023000000280000002d00000032000000
+    Description: 将生成速度升到 {0} 级。
+    IconMission: {fileID: 21300076, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Active Free Boost
+    Type: 6
+    Targets: 64000000f4010000e80300008813000010270000204e000050c30000a0860100400d030020a10700
+    Description: 激活免费强化 {0} 次。
+    IconMission: {fileID: 21300082, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Spend Gem
+    Type: 7
+    Targets: 64000000f4010000e8030000d00700008813000010270000204e000030750000409c000050c30000
+    Description: 消耗 {0} 宝石。
+    IconMission: {fileID: 21300084, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Use Merge Medal
+    Type: 8
+    Targets: f4010000e8030000d00700008813000010270000204e000050c30000a0860100400d030020a10700
+    Description: 使用 {0} 个合成勋章
+    IconMission: {fileID: 21300062, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Active Auto Merge
+    Type: 11
+    Targets: 0a0000003200000064000000f4010000e8030000d00700008813000010270000204e000050c30000
+    Description: 激活自动合成 {0} 次
+    IconMission: {fileID: 21300074, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Active DPS Boost
+    Type: 9
+    Targets: 0a0000003200000064000000f4010000e8030000d00700008813000010270000204e000050c30000
+    Description: 激活秒伤强化 {0} 次。
+    IconMission: {fileID: 21300066, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Active Spawn times
+    Type: 10
+    Targets: 0a0000003200000064000000f4010000e8030000d00700008813000010270000204e000050c30000
+    Description: 激活生成速度强化 {0} 次。
+    IconMission: {fileID: 21300070, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Kill Enemies
+    Type: 12
+    Targets: 3200000064000000f4010000e8030000d00700008813000010270000204e000050c30000a0860100
+    Description: 击败 {0} 个敌人
+    IconMission: {fileID: 21300060, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}
+  - MissionName: Ascend
+    Type: 13
+    Targets: 0a0000003200000064000000c800000090010000e8030000d00700008813000010270000204e0000
+    Description: 飞升 {0} 次
+    IconMission: {fileID: 21300062, guid: 7ec98c41bd96b914196a23bc7a6ae81f, type: 3}

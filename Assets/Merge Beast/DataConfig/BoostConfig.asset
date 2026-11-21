@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5735e5d504fbb644c9d413c706467fa0, type: 3}
+  m_Name: BoostConfig
+  m_EditorClassIdentifier: 
+  Boost:
+    m_keys: 000102030405060708090a0b0c0d0e0f101112131415
+    m_values:
+    - Name: 伤害强化 I
+      Description: 怪物伤害提升 100%。
+      Icon: {fileID: 21300014, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 21300000, guid: 6804b01620b5751438f5e916b9efc45e, type: 3}
+      Time: 300
+      Price: 5
+      Free: 0
+    - Name: 伤害强化 II
+      Description: 怪物伤害提升 200%。
+      Icon: {fileID: 21300010, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 300
+      Price: 60
+      Free: 0
+    - Name: 伤害强化 III
+      Description: 怪物伤害提升 500%。
+      Icon: {fileID: 21300014, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 300
+      Price: 100
+      Free: 0
+    - Name: 伤害强化 IV
+      Description: 怪物伤害提升 1000%。
+      Icon: {fileID: 21300012, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 300
+      Price: 180
+      Free: 0
+    - Name: 数个灵魂
+      Description: 观看短视频获得 2.95aa
+      Icon: {fileID: 21300242, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 300
+      Price: 60
+      Free: 0
+    - Name: 一包灵魂
+      Description: 观看短视频获得 75.00aa
+      Icon: {fileID: 21300094, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 7200
+      Price: 10
+      Free: 0
+    - Name: 一箱灵魂
+      Description: 观看短视频获得 150.00aa
+      Icon: {fileID: 21300094, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 14400
+      Price: 180
+      Free: 0
+    - Name: 生成等级强化 I
+      Description: 幻兽合成等级 +1。
+      Icon: {fileID: 21300034, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 21300000, guid: e2f4dbe49cb72a44e950910c5525c625, type: 3}
+      Time: 60
+      Price: 0
+      Free: 0
+    - Name: 生成等级强化 II
+      Description: 幻兽合成等级 +2。
+      Icon: {fileID: 21300032, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 30
+      Price: 50
+      Free: 0
+    - Name: 生成等级强化 III
+      Description: 幻兽合成等级 +2。
+      Icon: {fileID: 21300036, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 150
+      Price: 200
+      Free: 0
+    - Name: 自动合成 I
+      Description: 自动合成你的幻兽。
+      Icon: {fileID: 21300042, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 300
+      Price: 5
+      Free: 0
+    - Name: 自动合成 II
+      Description: 自动合成你的幻兽。
+      Icon: {fileID: 21300040, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 1200
+      Price: 200
+      Free: 0
+    - Name: 少量合成勋章
+      Description: 获得 50 个合成勋章
+      Icon: {fileID: 21300062, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 600
+      Price: 5
+      Free: 0
+    - Name: 数个合成勋章
+      Description: 获得 200 个合成勋章
+      Icon: {fileID: 21300060, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 0
+      Price: 20
+      Free: 0
+    - Name: 一堆合成勋章
+      Description: 获得 500 个合成勋章
+      Icon: {fileID: 21300222, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 0
+      Price: 40
+      Free: 0
+    - Name: 等级提升 I
+      Description: 新幻兽初始等级 +3。
+      Icon: {fileID: 21300056, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 15
+      Price: 0
+      Free: 0
+    - Name: 等级提升 II
+      Description: 新幻兽初始等级 +3。
+      Icon: {fileID: 21300054, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 60
+      Price: 30
+      Free: 0
+    - Name: 等级提升 III
+      Description: 新幻兽初始等级 +3。
+      Icon: {fileID: 21300056, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 300
+      Price: 200
+      Free: 0
+    - Name: 生成加速 I
+      Description: 新幻兽生成速度 +100%。
+      Icon: {fileID: 21300004, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 21300000, guid: 2e87f5186df1a5d43a9ef828484bdb7e, type: 3}
+      Time: 300
+      Price: 5
+      Free: 0
+    - Name: 生成加速 II
+      Description: 新幻兽生成速度 +200%。
+      Icon: {fileID: 21300002, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 120
+      Price: 50
+      Free: 0
+    - Name: 生成加速 III
+      Description: 新幻兽生成速度 +300%。
+      Icon: {fileID: 21300004, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 180
+      Price: 200
+      Free: 0
+    - Name: 一堆灵魂
+      Description: 一堆灵魂
+      Icon: {fileID: 21300094, guid: 2fbe8108f6c50d74d9f766ddd149d543, type: 3}
+      IconFree: {fileID: 0}
+      Time: 600
+      Price: 10
+      Free: 0

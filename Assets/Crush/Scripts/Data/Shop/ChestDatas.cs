@@ -1,0 +1,27 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+[System.Serializable]
+public class ChestData
+{
+    public ChestType chestType;
+    public CurrencyType currencyType;
+    public Sprite icon;
+
+    public int amount;
+    public string name;
+    public string des;
+    public int price;
+    public int maxStock;
+    public string days;
+    public int quantity;
+}
+
+[CreateAssetMenu(fileName = "ChestDatas", menuName = "CrushDatas/ChestDatas")]
+[ShowOdinSerializedPropertiesInInspector]
+public class ChestDatas : SafeSerializedScriptableObject
+{
+    public List<ChestData> chestDatas;
+}
