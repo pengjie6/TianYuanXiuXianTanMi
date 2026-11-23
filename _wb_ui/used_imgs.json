@@ -1,0 +1,3146 @@
+[
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\Beast_SpriteSheet.png",
+  "guid": "2fbe8108f6c50d74d9f766ddd149d543",
+  "bytes": 3152685,
+  "refs": 16
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Seji wp\\seiji_weapon.png",
+  "guid": "783d7dcc5fbc95249993e48c8b0253f0",
+  "bytes": 2770297,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Seiji fx\\seiji_effect.png",
+  "guid": "a31eec1ef087b5346ba34316b31b3823",
+  "bytes": 2636678,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Kyuzo wp\\kyuzo_weapon.png",
+  "guid": "4c1c96a7b8e5d934494b226946ef3b37",
+  "bytes": 2053477,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\spineboy-pro\\spineboy-pro.png",
+  "guid": "4ea2c33e839afb34c98f66e892b3b2d2",
+  "bytes": 1960355,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Hamster\\Hamster2.png",
+  "guid": "45fded8263a7a554993371027a4124c0",
+  "bytes": 1908991,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Shock_wave.psd",
+  "guid": "86a181efc3d1494459995237857735f7",
+  "bytes": 1579976,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Hamster\\Hamster.png",
+  "guid": "5970d10269067894ba655cd20673360f",
+  "bytes": 1467950,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Miu wp\\miu_weapon.png",
+  "guid": "a33c9d93b47d3e2419ee4b49950fcb68",
+  "bytes": 1363075,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Tsuki wp\\tsuki_weapon.png",
+  "guid": "5522339a32e6f5240bb4d68fea1678b8",
+  "bytes": 1122638,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\island_2.png",
+  "guid": "9e370fb4ddaf2b548833c291ebf6e3a0",
+  "bytes": 1095232,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\ascend.png",
+  "guid": "3c28c465923377145ad325a992c57914",
+  "bytes": 1092881,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Tsuki fx\\tsuki_effect.png",
+  "guid": "35b6c3964d7f1874cab63973ffcc3984",
+  "bytes": 1072704,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\bgUIBookBottom.png",
+  "guid": "6274c03dedd83944cac6d55892760159",
+  "bytes": 1066035,
+  "refs": 5
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Flamie fx\\flamie_effect.png",
+  "guid": "c0aa7a9edad2467439ae0507b68a6eb0",
+  "bytes": 1051221,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\0_VFX_Preset\\Texture\\sunray2.tga",
+  "guid": "25f3bdbf56893b64083045662ecbc33d",
+  "bytes": 1048620,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Flamie wp\\flamie_weapon.png",
+  "guid": "81a2d528f7c572042be8a7efa70d1282",
+  "bytes": 1043887,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Modie wp\\modie_weapon.png",
+  "guid": "f3a8cd4c5e6a86f4e8ff63e1ed4864ac",
+  "bytes": 981872,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\island_4.png",
+  "guid": "f9def72c95a679d40b1e541360e5d57d",
+  "bytes": 974360,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Tsuki\\tsuki.png",
+  "guid": "a6e2a697b2bbff742874a6aacc90c8da",
+  "bytes": 959894,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\The Elder One fx\\the_elder_one_effect.png",
+  "guid": "ce0c97e6b7423bb4eb3b89d4974b0750",
+  "bytes": 951670,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Modie\\modie.png",
+  "guid": "0d59255691b9d244ab819ebc30303801",
+  "bytes": 929579,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Kina wp\\kina_weapon.png",
+  "guid": "38a6f1eff05227b4cbd219c7d237ed4d",
+  "bytes": 919187,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Jiao fx\\jiao_effect.png",
+  "guid": "9a73d40402f83d4409a2459566f266c5",
+  "bytes": 907316,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Kina fx\\kina_effect.png",
+  "guid": "bb0c485ea101cc3499e2a82ff1e9022e",
+  "bytes": 903142,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Dalmatian shield fx\\dalmatian_shield_effect.png",
+  "guid": "acef4ff33cb290844bbaad99a76fadcb",
+  "bytes": 889727,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Baiko FX\\baiko_effect.png",
+  "guid": "cefeb27b3ec0aed47b45e81645cbbba2",
+  "bytes": 872255,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Baiko wp\\baiko_weapon.png",
+  "guid": "0427e745d62f3054f968de7789e05c6f",
+  "bytes": 845181,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\BG_Shop.jpg",
+  "guid": "927e24127ce5be44cb3a850510876005",
+  "bytes": 839355,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90008\\90008.png",
+  "guid": "37e54a2f26e123b41b5ba71be1ccb456",
+  "bytes": 837911,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Antler Sheep FX\\antler_sheep_effect.png",
+  "guid": "13ff74cb8ab89ec48b75e75731723368",
+  "bytes": 829027,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Kagura wp\\kagura_weapon.png",
+  "guid": "9eb7701ed123f8a43a76bd4178d89ae6",
+  "bytes": 820235,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Pank fx\\pank_effect.png",
+  "guid": "732bff571d330de489ca24bba3154563",
+  "bytes": 790905,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Bean wp\\bean_weapon.png",
+  "guid": "78936a32a689db64b802ce342925065b",
+  "bytes": 787917,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\Shockwave_01.tga",
+  "guid": "ea7efc7b2c6949e4daa04284ad791a08",
+  "bytes": 786476,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Sun wp\\sun_weapon.png",
+  "guid": "7531ef5048ba6de4e8866138e5eca97c",
+  "bytes": 786405,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Kyuzo\\kyuzo.png",
+  "guid": "fd0b2786b4ef7e741bf15cdb795301bd",
+  "bytes": 774884,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Flash\\flash.png",
+  "guid": "8c7738e8c41ae3544a57bedeffe08827",
+  "bytes": 727579,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\bg01_3.png",
+  "guid": "dcd4c2aa1cba51949abfc5b4efd4a6b5",
+  "bytes": 726767,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Modie fx\\modie_effect.png",
+  "guid": "e58bd79390fa1604ba4ebc0bad7435fd",
+  "bytes": 710847,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Seiji\\seiji.png",
+  "guid": "7bb4cece73c9ab947b1ceb12e9aa2ad2",
+  "bytes": 681863,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Baiko\\baiko.png",
+  "guid": "0e964244c8dcfb044ba5003d624ae284",
+  "bytes": 663464,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\cloud_fix.png",
+  "guid": "6c70dbf848ae7fa47988b15a87751f00",
+  "bytes": 657821,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Dragon\\dragon.png",
+  "guid": "6bc52290ef03f2846ba38d67e2823598",
+  "bytes": 631277,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\spineboy-unity\\spineboy.png",
+  "guid": "49bb65eefe08e424bbf7a38bc98ec638",
+  "bytes": 622939,
+  "refs": 4
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\Beast_SpriteSheet_2.png",
+  "guid": "f4790fe803964f44b8c1865a9ca24dd6",
+  "bytes": 593941,
+  "refs": 5
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Mora\\mora.png",
+  "guid": "e96a01ec771bcce468355d05e72511fb",
+  "bytes": 582301,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\setting.psd",
+  "guid": "6cbc483cd04d36d4c9693ea988352c49",
+  "bytes": 570827,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\Icon\\uihead.png",
+  "guid": "65ed076b15bc177488b2e68fe74aa087",
+  "bytes": 537727,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\uihead.png",
+  "guid": "b42683a71d0e6004781725f8c9b40143",
+  "bytes": 537727,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\bg01_2.png",
+  "guid": "40ff60dc4db8b474ebabba28342b167a",
+  "bytes": 509701,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Raptor\\raptor.png",
+  "guid": "4261719a8f729a644b2dab6113d1b0ea",
+  "bytes": 505544,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\Quest.png",
+  "guid": "7ec98c41bd96b914196a23bc7a6ae81f",
+  "bytes": 489897,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\BG\\jpg_main_bg.png",
+  "guid": "4f8253c565ac1dc4891454ac6fe5119f",
+  "bytes": 488228,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90017\\90017.png",
+  "guid": "65064761f6303f743824e73d8373b3c2",
+  "bytes": 483088,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\raptor-pro-and-mask\\raptor-pma.png",
+  "guid": "c1a5fbc2700be764fa3c6c44b2ed67a0",
+  "bytes": 480736,
+  "refs": 4
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90009\\90009.png",
+  "guid": "a1e4dca4b0dce204a9fcc11717693815",
+  "bytes": 467544,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Mijus\\mijus.png",
+  "guid": "04e0047bd38fe4447900ac07b84cef0a",
+  "bytes": 467318,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\1 Bee\\bee.png",
+  "guid": "85bd7e2f31e651648b731b2be08c2cbf",
+  "bytes": 454566,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\wave_rip.png",
+  "guid": "1f3dd1aa4e640104688b1f5e5907816d",
+  "bytes": 442852,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Fishie fx\\fishie_effect.png",
+  "guid": "6558902fb7673b743aadc7cc8c05f74b",
+  "bytes": 442072,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Fishie wp\\fishie_weapon.png",
+  "guid": "16d85cbf7a3fc944fa1465e74321669f",
+  "bytes": 428011,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\0_VFX_Preset\\Texture\\RealisticSmoke02_4x4_small.png",
+  "guid": "dc5c7d033ba7554419161b085f495918",
+  "bytes": 424646,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Seiji fx\\seiji_effect2.png",
+  "guid": "1333c7d85d9c1bf4585ed277c3dc7e21",
+  "bytes": 411314,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\Battle_MatchTile_Spritesheet_fix.png",
+  "guid": "4945aaaa8d3e33842a88d059bdb50e45",
+  "bytes": 407097,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90014\\90014.png",
+  "guid": "080ba782822914a4094aea57d61f1466",
+  "bytes": 400760,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90011\\90011.png",
+  "guid": "addc1371e630c744d83f2933944fd514",
+  "bytes": 390039,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\mix-and-match\\mix-and-match-pma.png",
+  "guid": "a837e662e711d1a4ba0b4a9aeb141878",
+  "bytes": 388938,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat51.png",
+  "guid": "b955160a27127454abece0e1a595b07a",
+  "bytes": 381514,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\BG\\jpg_atkcat_bg.jpg",
+  "guid": "4a38aa05bb0b7944582b8282592a172d",
+  "bytes": 377109,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\BG\\png_login_cat.png",
+  "guid": "a5234a92e7607954280e1d3244d2d26b",
+  "bytes": 376539,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\bg01_1.png",
+  "guid": "4ee2315470c5e49458530956542426b2",
+  "bytes": 351269,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Hamster\\Hamster3.png",
+  "guid": "a6d810530a27cc041bd678bca95a136e",
+  "bytes": 347510,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\uimain.png",
+  "guid": "4002ffbfea9874d4c9250da6f86c9d17",
+  "bytes": 343261,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Rating\\SpriteSheet_Rate.png",
+  "guid": "a216f5ce38d27ab4faffc3ebbf283e8c",
+  "bytes": 339289,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Miu fx\\miu_effect.png",
+  "guid": "e35c56186506e39428a593e44918f67f",
+  "bytes": 332085,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Nemu wp\\nemu_weapon.png",
+  "guid": "f48453fd13b733b4b9b7218924c75b1b",
+  "bytes": 310102,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Nemu fx\\nemu_effect.png",
+  "guid": "3d88d79c92de75a45be91af5ce0df0ea",
+  "bytes": 310102,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\bgIAP.jpg",
+  "guid": "50962fe61c0a82a4ca641528ead6ddf6",
+  "bytes": 307731,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Kina\\kina.png",
+  "guid": "76d55b6821dc49e45940d517b31df930",
+  "bytes": 307485,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Flash fx\\flash_effect.png",
+  "guid": "42435f256e9610f4990fecefac4cbc8d",
+  "bytes": 306278,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat56.png",
+  "guid": "65e67b55e290eba45accc74b5569ae75",
+  "bytes": 304615,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Kagura\\kagura.png",
+  "guid": "95ffe099d128a5f41942af2529f33c0e",
+  "bytes": 300747,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Jiao wp\\jiao_weapon.png",
+  "guid": "87d26e09428a5ed4eb27a5ae8bf1b338",
+  "bytes": 289096,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\real_cloud.png",
+  "guid": "746ee9f503b8d3a488d65e6c31fbffdc",
+  "bytes": 284212,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Sun fx\\sun_effect.png",
+  "guid": "6c2e8496dc788a2459614e057c271302",
+  "bytes": 282613,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Flash wp\\flash_weapon.png",
+  "guid": "f2f4e70fcbaa7c241aa484a2b92fead3",
+  "bytes": 282460,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Devil Dragon fx\\devil_dragons_effect.png",
+  "guid": "84e74d588d89b2848a61a7a1687afd3b",
+  "bytes": 277822,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\fire_ball.png",
+  "guid": "1f60b15c62913d64aa8da75693dcf6bf",
+  "bytes": 275514,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat54.png",
+  "guid": "1cca72155fb3ba64aadfbee8f8d6e202",
+  "bytes": 270893,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Mora wp\\mora_weapon.png",
+  "guid": "c62e46f70baf1644e9939572b1a40590",
+  "bytes": 269710,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\FreeBoost_Spritesheet_2.png",
+  "guid": "76c4b8d5d961c364b994b14114a05bea",
+  "bytes": 267247,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Bean fx\\bean_effect.png",
+  "guid": "5ac6f8aef6bbaa4498dbc0675e969741",
+  "bytes": 265611,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Miu\\miu.png",
+  "guid": "22437a4fe93c9e24292cf1779b8ba85c",
+  "bytes": 265506,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\FreeBoost_Spritesheet_1.png",
+  "guid": "61488e8815aee5d44957abf4ec9541dd",
+  "bytes": 265276,
+  "refs": 5
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat46.png",
+  "guid": "4ad3e206d5f59d94e9d0e26ac0af2bc9",
+  "bytes": 263636,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\TEX_Wave.tga",
+  "guid": "605d4ab78ddffb7419fe72d25255dd26",
+  "bytes": 262188,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Spakr2_Texture.tga",
+  "guid": "692f4809755f2da498034053bb52e0bc",
+  "bytes": 262188,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Light_Circle.tga",
+  "guid": "62cf01aa2817c1f4a8e2fe13310f67bf",
+  "bytes": 262188,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Mora fx\\mora_effect.png",
+  "guid": "20b853acc1fbadc4ca07deaf40952806",
+  "bytes": 261043,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Shiba fire fx\\shiba_fire_effect.png",
+  "guid": "cede9d8b70546db4f9d263f5f42c638d",
+  "bytes": 260628,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat52.png",
+  "guid": "849f29a2be9f1944fa95801db19f7d4b",
+  "bytes": 258800,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Holi wp\\holi_weapon.png",
+  "guid": "a14e133897a46354aa99d59d0beb7fe5",
+  "bytes": 258747,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Holi fx\\holi_effect.png",
+  "guid": "8e9eab3621511654982ae5d2d7e76e22",
+  "bytes": 258098,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat24.png",
+  "guid": "2379434f95581384aae29d160d610102",
+  "bytes": 257901,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Kagura fx\\kagura_effect.png",
+  "guid": "6b6ed4d8037888245b53c68d3ec40142",
+  "bytes": 249617,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90005\\90005.png",
+  "guid": "a098ef8dfd5f1ca46a6f6e3c366c6ead",
+  "bytes": 243075,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat25.png",
+  "guid": "4b82e4545d74fca45ab13f8e18a5842a",
+  "bytes": 242237,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat55.png",
+  "guid": "0ca0bb24a6da6b3499c10e27b5417f37",
+  "bytes": 240906,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90001\\90001.png",
+  "guid": "8059bc199a0ef084ca66ea6309e2c91d",
+  "bytes": 239497,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\Match.png",
+  "guid": "d874bc2d4712e724f8a054a56a112d57",
+  "bytes": 239164,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat57.png",
+  "guid": "38b8328335135f24b9a5baa1dc699900",
+  "bytes": 237660,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat48.png",
+  "guid": "10228675b438de04ea6b39e62aa02da3",
+  "bytes": 237269,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat40.png",
+  "guid": "ca7711593896db64da1b642feafd3996",
+  "bytes": 236207,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat9.png",
+  "guid": "9851a3c6f8a1d754e8394efba1e7437f",
+  "bytes": 234866,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Naruto\\naruto.png",
+  "guid": "8053a8b7ee7d0794c8d1b88bee7f9a02",
+  "bytes": 234460,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat47.png",
+  "guid": "bb1cd0c58a5f7494b825656ee3adfab7",
+  "bytes": 230559,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat44.png",
+  "guid": "84693ce92d202e649a005d72ee99eb91",
+  "bytes": 229851,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Naruto fx 2\\naruto_effect2.png",
+  "guid": "9da15bbef2462774ab5076f8258eb65c",
+  "bytes": 229775,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat34.png",
+  "guid": "570d53fb46ea1884abe5cc91c67086ed",
+  "bytes": 229681,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat20.png",
+  "guid": "2226b08a95779954e97cf8576136adb4",
+  "bytes": 229469,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat8.png",
+  "guid": "823acefde51dfea408c3bad3ef9a31b9",
+  "bytes": 229175,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat14.png",
+  "guid": "4ad7780f06da79246b2b0460d1e77848",
+  "bytes": 227785,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat29.png",
+  "guid": "c8a4f71d8e99e344fae36ab6ec3bce64",
+  "bytes": 225673,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat30.png",
+  "guid": "5b824c1581ed72e4b85b4e5ce13b1e58",
+  "bytes": 224452,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\Arena.png",
+  "guid": "b57b7dd4339caeb498e10c52f26c122f",
+  "bytes": 224372,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat.png",
+  "guid": "44b4d1caccdbeb84fa67f94ccd8002a5",
+  "bytes": 223281,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat49.png",
+  "guid": "20b5ee6038e741343a5b7830230a9241",
+  "bytes": 222306,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat19.png",
+  "guid": "2c6570e25c2e09a44903744d85ea1c21",
+  "bytes": 221856,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat10.png",
+  "guid": "485675a9bb03e164c849212710826461",
+  "bytes": 220771,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpriteSheet\\main_atlas1.png",
+  "guid": "f2c2d116d4ddbe740b252f8c4e343084",
+  "bytes": 220363,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat22.png",
+  "guid": "eb8609de607802a4cacb6685b373f807",
+  "bytes": 219319,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat45.png",
+  "guid": "a350b84feb1279b41b9f5f8e8e73c98c",
+  "bytes": 218815,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat13.png",
+  "guid": "33c850e3f4c6bbc4f86d4fbe4e143a8b",
+  "bytes": 218077,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat23.png",
+  "guid": "179f0cb42118fec40a2c8f5d86bfa822",
+  "bytes": 216989,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat32.png",
+  "guid": "108ea320019241f48940a38818a27a1d",
+  "bytes": 216700,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat50.png",
+  "guid": "a7f8ee8d5f2506d47bdd19fe1bf940e1",
+  "bytes": 216491,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\items.png",
+  "guid": "84fc79bbac96ead4d8cd163463ba1a53",
+  "bytes": 216264,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat43.png",
+  "guid": "74e279a14dd00a0438eb8f6cfb1cf1a1",
+  "bytes": 215764,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat2.png",
+  "guid": "186012963cb562c4db7863f3cbb62072",
+  "bytes": 214360,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat39.png",
+  "guid": "4d801e53f51be504dac3970f6504ac5d",
+  "bytes": 212088,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat36.png",
+  "guid": "7a2febebe31c95f4e802757afaf2e260",
+  "bytes": 210427,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat38.png",
+  "guid": "5fd5a09461e9f9f43980f0f5abdaaf86",
+  "bytes": 208117,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Gostie wp\\gostie_weapon.png",
+  "guid": "fa44702c021a1a44197729b4176a63e0",
+  "bytes": 207574,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\7 Hero Cat\\hero_cat.png",
+  "guid": "fcb87bc5d6a6327469e59be30606df5a",
+  "bytes": 207357,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat4.png",
+  "guid": "f15b13b0c1588a24eb0ddd7c83ce97c3",
+  "bytes": 204801,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\Dungeon.png",
+  "guid": "624babc5f9659b340954762c6305e905",
+  "bytes": 202601,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Hero Cat Floating\\hero_cat_floating.png",
+  "guid": "d73c98757b9cb4647bd772cac5433bf6",
+  "bytes": 201295,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Hero Cat Empty\\hero_cat_empty.png",
+  "guid": "ec7a87c6adde4434097f6b63b6ffdb78",
+  "bytes": 201295,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Jiao\\jiao.png",
+  "guid": "4829ce9bdbd870941aae064cea18a88d",
+  "bytes": 200919,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat12.png",
+  "guid": "4a34e26b799950c449ee12f80ce21354",
+  "bytes": 197867,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\ImpactShape_01.tga",
+  "guid": "abcb244d5a600ef4bb5f34b3514c2bb4",
+  "bytes": 196652,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\Glow_01.tga",
+  "guid": "c6dd5cb7a6d17da428c25bcfc4269a5c",
+  "bytes": 196652,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat41.png",
+  "guid": "c53946e704489c84ab7ee66244943779",
+  "bytes": 196473,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Dragon\\dragon2.png",
+  "guid": "12c126994123f12468cf4c5a2684078a",
+  "bytes": 196428,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\4 Monkey Mob\\monkey_mob.png",
+  "guid": "ad11649cb14143f4b8c283b954287318",
+  "bytes": 195620,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\6 Ceshi\\dalmatian_sword.png",
+  "guid": "b88a71b2316f0f24c99e92619907cc04",
+  "bytes": 194966,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat53.png",
+  "guid": "0fc4f7ce1bc80a84fa414db444a4170d",
+  "bytes": 194039,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat42.png",
+  "guid": "a17f36cbc0ac86e48bd2c0f396a66339",
+  "bytes": 193803,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat31.png",
+  "guid": "3f389d715404e7d4aa55f3ce10d871b0",
+  "bytes": 193477,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat5.png",
+  "guid": "cf3f6b19e48f2164b86c35de2eebf952",
+  "bytes": 193117,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Gostie fx\\gostie_effect.png",
+  "guid": "6c1a680c4a012094c9154d3bb947b916",
+  "bytes": 192753,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Flamie\\flamie.png",
+  "guid": "bfc6287b45138c8498564b114073ea60",
+  "bytes": 192498,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat58.png",
+  "guid": "2bbfc2a5be4d5cf44a38e689fc8922a2",
+  "bytes": 189040,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90012\\90012.png",
+  "guid": "46a0be52d21e199439fc779dc831e861",
+  "bytes": 188552,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat27.png",
+  "guid": "a028b610a7f6c5a4f9eb3ff0b1b0b503",
+  "bytes": 188231,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\0_VFX_Preset\\Texture\\force_texture.jpg",
+  "guid": "86a31a677a7f0e647804f9065969b425",
+  "bytes": 187507,
+  "refs": 6
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Holi\\holi.png",
+  "guid": "3a672fc8936996847b9b390f545a88d8",
+  "bytes": 186783,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\3 Devil Dragon\\devil_dragons.png",
+  "guid": "ec5c6cedb7e8cda45ad72a03ce7257a8",
+  "bytes": 183426,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\5 Dalmatian Boomerang\\dalmatian_boomerang.png",
+  "guid": "7de31efef3e4f5e48b411f81164e7c67",
+  "bytes": 182963,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat17.png",
+  "guid": "2d6f853ecd7f49445aa3b7881c4970f5",
+  "bytes": 181642,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\15 The Elder Three\\the_elder_three.png",
+  "guid": "e0a3defc8353af94e977e11168a72c40",
+  "bytes": 179601,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\9 Pomper Mace\\pomer_mace.png",
+  "guid": "dc79302bc8c7b4b4eae9f49b4e573542",
+  "bytes": 177508,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Dalmatian Shield\\dalmatian_shield.png",
+  "guid": "bb61fe9462d7db2488493e3f8387ffb6",
+  "bytes": 176271,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Gostie\\gostie.png",
+  "guid": "787e113e54f3e1b4daccc088649bfc63",
+  "bytes": 176185,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Nemu\\nemu.png",
+  "guid": "bee7e2fed9a382e45816a0d715764a80",
+  "bytes": 174968,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat7.png",
+  "guid": "8b8a74aff2fd756408e01f2f32142771",
+  "bytes": 173516,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\14 The Elder Two\\the_elder_two.png",
+  "guid": "d89c8af8b8bd69a4f82c4b4da06db2bf",
+  "bytes": 173256,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat18.png",
+  "guid": "dd863cda37d2e734f9ab2ddcc9c6300c",
+  "bytes": 172548,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat15.png",
+  "guid": "47951128b34fa3d40909f13cab02d784",
+  "bytes": 172516,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat28.png",
+  "guid": "4ad0d9c1948676c4fa41b33a26cbdf54",
+  "bytes": 170559,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat16.png",
+  "guid": "f89997708d8921f47aee4f6ba031c65b",
+  "bytes": 170475,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat11.png",
+  "guid": "ae35ab5fdd4ce0140b698ed8c714cec1",
+  "bytes": 169994,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat35.png",
+  "guid": "f3da653f3e405b44b9b8b3e61dade400",
+  "bytes": 168788,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\trip_slash_purple.png",
+  "guid": "acd787d866181944d8d04ffa6b8efc30",
+  "bytes": 168215,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\NewMain\\NewMainUISpriteSheet.png",
+  "guid": "d19a91abf65ba1a4a9731d766b26b78d",
+  "bytes": 166509,
+  "refs": 4
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\10 Shiba Dark\\shiba_dark.png",
+  "guid": "65aa877f29cb3b144a664e6e10ed8e0b",
+  "bytes": 163962,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Sun\\sun.png",
+  "guid": "08dd1ba5a60d6904b948ae0f6cd8cec3",
+  "bytes": 163593,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Goblins\\goblins.png",
+  "guid": "5fb7efec30c79cb46a705e0d04debb04",
+  "bytes": 163516,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\The Elder One\\the_elder_one.png",
+  "guid": "11dfe313c4b3e8942a1f8ca2e03a5a39",
+  "bytes": 160650,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Pank\\pank.png",
+  "guid": "c2f7a88c4193eb84d9f15e31f7187cdf",
+  "bytes": 159986,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Fishie\\fishie.png",
+  "guid": "f0f3cac309a0ac54a96f9dc2f0b7719f",
+  "bytes": 157310,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat33.png",
+  "guid": "5fa38105510d51b4e971f34b0a9234c0",
+  "bytes": 153855,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90002\\90002.png",
+  "guid": "b982cd5bab652ca40b588fe0b872c624",
+  "bytes": 152806,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat21.png",
+  "guid": "c38a6e99ff7e3484785bde67943f81e2",
+  "bytes": 152463,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\small_RealisticSmoke_4x4.png",
+  "guid": "9580682c9cdf2674bad48a166f16dda1",
+  "bytes": 151271,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\12 Shiba Thunder\\shiba_thunder.png",
+  "guid": "8afe777b22179a644a3a12528da1115f",
+  "bytes": 150746,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat26.png",
+  "guid": "61a58c7342c61c2489dd261e71cff05a",
+  "bytes": 148219,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Pomer Slingshot fx\\pomer_slingshot_effect.png",
+  "guid": "8043e64fcc700ca49be79a9674ead177",
+  "bytes": 147679,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\wave_full.png",
+  "guid": "362b4f96ed4730041b5aceabd093a9d1",
+  "bytes": 145892,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\11 Shiba Light\\shiba_light.png",
+  "guid": "e25e20ea75742e04c809fa8e00bd5fdb",
+  "bytes": 145792,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat3.png",
+  "guid": "6610d7afe290e0243917d596946a5cc4",
+  "bytes": 145655,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\b50cca77325211f8a34aa1b1cdedc3dd.png",
+  "guid": "9ef1c78871b8fd3479480b9bfb7d45f1",
+  "bytes": 145277,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Bean\\bean.png",
+  "guid": "ed447a2293cb4494f9db4307c2d25c73",
+  "bytes": 145004,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Spineunitygirl\\Doi.png",
+  "guid": "33e128e17951b4a42b17608ff79ba5c5",
+  "bytes": 144372,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\BG\\logo 1.png",
+  "guid": "7146842fa30197545861dbe89eb3ff76",
+  "bytes": 144153,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\13 Shiba Water\\shiba_water.png",
+  "guid": "9f98468e2ba73874ab5897c97d76bfef",
+  "bytes": 141609,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\vine_ball.png",
+  "guid": "1c8b3888bfb95ff47a7fd55a1ce462e3",
+  "bytes": 137857,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\vine_thorn.png",
+  "guid": "d42a5fe1799c2cb4786dbd4f01f907c9",
+  "bytes": 135214,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\bg01_4.png",
+  "guid": "c68fc7f61962e68459abdc89376c45ee",
+  "bytes": 132668,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat37.png",
+  "guid": "74a76c63c17ac7542a11aad384c65eb3",
+  "bytes": 132646,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat\\Cat6.png",
+  "guid": "867ba921d22c5aa42bd06fc1d4849a79",
+  "bytes": 128388,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\Bat.png",
+  "guid": "1b56a2f2bb5f1674a8058ae56d884be1",
+  "bytes": 125229,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\0 Antler sheep\\antler_sheep.png",
+  "guid": "417a2a0438dee9148aca9096bca81735",
+  "bytes": 124899,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\blast.png",
+  "guid": "23a03e719c4ec0f4986093c7886bfba9",
+  "bytes": 123285,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\big_slash_purple.png",
+  "guid": "c4819cb7234073e4e93c9e6899aaac3e",
+  "bytes": 117757,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\bg-daily-2.png",
+  "guid": "451f51c7756cdf440a3468c85a3aaa56",
+  "bytes": 117103,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Egg\\egg.png",
+  "guid": "a9e8db3d2c7e3674aa13673bfd32b289",
+  "bytes": 116922,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\png_tsuki.png",
+  "guid": "b8c2d9ae701302345a0452fcd15ed1ec",
+  "bytes": 115999,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\bg-daily-1.png",
+  "guid": "fd7bd4f41d927344dbc1ca99a8a5ac90",
+  "bytes": 115349,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\TimeJump8h.png",
+  "guid": "7933b13ce61e734438c1c1d7b55e212d",
+  "bytes": 115303,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Stretchyman\\stretchyman-diffuse-pma.png",
+  "guid": "33f10ea7e20549d40a1c23a1adc3f760",
+  "bytes": 114551,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\icon-boost-1.png",
+  "guid": "72d09e726b873de40818d289af12dfec",
+  "bytes": 114171,
+  "refs": 4
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\blueBg.png",
+  "guid": "b2bf014b34ee24f4c8ff9bd970ae1da9",
+  "bytes": 109374,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\blastsmall.png",
+  "guid": "8dfb20b32759a7f4984f078ae96621f6",
+  "bytes": 108331,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\bg-day-count.png",
+  "guid": "e14a3f61467e6854da9cd083ec5198ba",
+  "bytes": 101830,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\8 Little Mijus\\little_mijus.png",
+  "guid": "5a6103a7c3ee00d48b1ae4cd58bd85e7",
+  "bytes": 100259,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\whirlyblendmodes\\whirlyblendmodes.png",
+  "guid": "dc1b9f9665c8aa74799404a1d2038e3d",
+  "bytes": 98575,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\Flame_Spear_hue.png",
+  "guid": "aeba44523173e244297c64c6e2894a35",
+  "bytes": 98458,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\sticky.png",
+  "guid": "06545f2778e0cee46a15a8279603a5d8",
+  "bytes": 97703,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Hero\\hero-pro.png",
+  "guid": "25b07e861d1a62f4db687c871e4a3828",
+  "bytes": 95214,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\trip_slash_purple_2.png",
+  "guid": "49c99c01bc4c34647b4e5dec1a899348",
+  "bytes": 94207,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\png_seiji.png",
+  "guid": "019f281616e439745823d61a1e431d37",
+  "bytes": 93622,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\a1.png",
+  "guid": "0802cc9aa2c8b5549aba256be9b03660",
+  "bytes": 93099,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Inap1.png",
+  "guid": "30c16ad0715ea9f4aba482d093edd866",
+  "bytes": 90832,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\enemyBg.png",
+  "guid": "7264f0b2282c2a74c8f42ce7e4356e7b",
+  "bytes": 88836,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Shiba Fire\\shiba_fire.png",
+  "guid": "afcf0b38d86e3c54da38667b4014c907",
+  "bytes": 88596,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\btn back.png",
+  "guid": "d93b8abbd006a814688e5eab350e8268",
+  "bytes": 87118,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\bgPack.png",
+  "guid": "6ec22ea941b16fb469d93d0652a76acd",
+  "bytes": 82065,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Stretchyman\\stretchyman-normals.png",
+  "guid": "d00f264cbe0cc4a49a54a221ee812855",
+  "bytes": 81353,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Monster\\Pomer Slingshot\\pomer_slingshot.png",
+  "guid": "8be1b7f732ab0b64e90472a3fb310930",
+  "bytes": 77928,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\ui_board.png",
+  "guid": "0f7d67a0479168a41ad8388b010a8aae",
+  "bytes": 76495,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Mijus fx\\mijus_effect.png",
+  "guid": "7824e6d5238016f4f8b52cee23013175",
+  "bytes": 76107,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Naruto fx\\naruto_effect.png",
+  "guid": "1a0df3c37c446054d8a3ed062d379bd4",
+  "bytes": 72662,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\nextStage\\titleNextStage.png",
+  "guid": "130937fa13920b6469c339a937e9b892",
+  "bytes": 72061,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\buyPopup\\bgBuyPopup.png",
+  "guid": "a20ec34de7ae63c4aa1114c0c4908a99",
+  "bytes": 70813,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\bgUpgUI.png",
+  "guid": "f29cf4c86dde82b4ca7d176996d38b89",
+  "bytes": 70076,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\heroInfoBg.png",
+  "guid": "dd700f75908746745b6bcad9bacaebce",
+  "bytes": 70032,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\BoostMerge2.png",
+  "guid": "5c96e566442ef4949936ef31347832d4",
+  "bytes": 69036,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\a2.png",
+  "guid": "1e952ef86d9146942a77d8b4a45dad48",
+  "bytes": 68858,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\ascendBg.jpg",
+  "guid": "68620a34b4531514ea0a327ce50df0ec",
+  "bytes": 67423,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\iconSoulPack2.png",
+  "guid": "ea7e196da0ba2d14589e482c109e36ea",
+  "bytes": 67156,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ice_sword.png",
+  "guid": "04a5c9bfbf048404887376fb780357ec",
+  "bytes": 65703,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Tex_TrailGlow.tga",
+  "guid": "c541504d96a64244e9fc5f563f4b988a",
+  "bytes": 65580,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Shock_wave.tga",
+  "guid": "e251a4e6ae5ad44439fbcb16fe472677",
+  "bytes": 65580,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\a6.png",
+  "guid": "7c580df3ab2319949a1245f202938c51",
+  "bytes": 65325,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\heroListBg.png",
+  "guid": "8d37fc7823b4d0d4491755b064f5941f",
+  "bytes": 64652,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Textures\\PolySpriteGlow.png",
+  "guid": "1c62d9feb9569b44c8ed7a2f35c2abf9",
+  "bytes": 62613,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\nextStage\\bgPopup.png",
+  "guid": "b344a7bbf0d1dd746b483b19ba0a0282",
+  "bytes": 61552,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Kyuzo fx\\kyuzo_effect.png",
+  "guid": "3bdef07f481d8414597d26fc950f53ca",
+  "bytes": 61517,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\a5.png",
+  "guid": "09d2c7b0c88a2ef43ba60e6210d19451",
+  "bytes": 61473,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\heroBgEpic.png",
+  "guid": "f4292644f60a1254198b753883ebe4b7",
+  "bytes": 61446,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\heroBgCommon.png",
+  "guid": "e0d1ef43847fcf549bfc54b0dfa4608a",
+  "bytes": 60030,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\0_VFX_Preset\\Texture\\ground_shockwave.jpg",
+  "guid": "ded00bbec082dc642bee01321e078038",
+  "bytes": 59858,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\icon month card.png",
+  "guid": "729cbf0d2f8730e4a86c79c24537347d",
+  "bytes": 58576,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\green_trail.png",
+  "guid": "99bb88f7f12a3cf45a285b3421e51693",
+  "bytes": 57955,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\big_slash.png",
+  "guid": "24d16a4452cab1b478f085689d447ed1",
+  "bytes": 57839,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\animAutoMedal.png",
+  "guid": "17b0ddb59eb4364439ad3642badad931",
+  "bytes": 57553,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\item_pack_bg.png",
+  "guid": "6f2ec63bdb8278947b27cfb3d17fe7f3",
+  "bytes": 57352,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\nextStage\\iconChestOfSoul.png",
+  "guid": "fe678441421a82a49a4a26e71d90a46f",
+  "bytes": 57340,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\FootSoldier\\FS_White.png",
+  "guid": "57b57f94df266f94ea0981915a4472e1",
+  "bytes": 54666,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\impact2.png",
+  "guid": "bc35304eaab81624da56e2fed660a18f",
+  "bytes": 52380,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Little Miju fx\\little_mijus_effect.png",
+  "guid": "3153cf2f097b6034bab2f3838ff0e5af",
+  "bytes": 52095,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\soul4.png",
+  "guid": "9dadb27ad287bc54ab629e7c82e5db0c",
+  "bytes": 50547,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Bee fx\\bee_effect.png",
+  "guid": "99de31d96868bf64a8697040fb0c212e",
+  "bytes": 50102,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\nextStage\\newBeastRotateFX.png",
+  "guid": "4040c0802e9435c4290e5c2b1463fa44",
+  "bytes": 50050,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Avatar.png",
+  "guid": "eb35e1e3c9eb5c048aa51ca6b349f087",
+  "bytes": 49740,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\heroBgRare.png",
+  "guid": "cd860dc32daa9e040bec67e98c20ed35",
+  "bytes": 49347,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\spineboy-unity\\Equips\\goggles-tactical.png",
+  "guid": "4f554405f8f06164db0773d689da243c",
+  "bytes": 46967,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\a4.png",
+  "guid": "0bea96a8a02e7c84a9b53ee7e6bb956f",
+  "bytes": 46778,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\fire_sword.png",
+  "guid": "4ad86956ba4435e49baa0983f4764a4e",
+  "bytes": 46745,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\frost_ball.png",
+  "guid": "7ee9f07084aaf0645bd06849daa10415",
+  "bytes": 46430,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\light_ray.png",
+  "guid": "8615b15c3d14f8849b36368ce54aaeb9",
+  "bytes": 45940,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\soul2.png",
+  "guid": "918bbbf4bd4a99a488952d7a236af76a",
+  "bytes": 45210,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ex_trail.png",
+  "guid": "4a1b9cbad6a89dd4a8b0f95af8e34094",
+  "bytes": 44290,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\icon week card 2.png",
+  "guid": "d60b741e0c32e1d44a9375d1747dbf45",
+  "bytes": 43897,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\soul3.png",
+  "guid": "fae3ef66adb8ffb4696d5e035af6909f",
+  "bytes": 43670,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\ribbon.png",
+  "guid": "3e60e0999a012d0428f9cee86b6c6c07",
+  "bytes": 42847,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Bat\\fly_bat.png",
+  "guid": "de39516dbbe30d540b0596b9848f4b21",
+  "bytes": 42124,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\strike1a.jpg",
+  "guid": "39686765ffe39514b9807ccc9a6c455f",
+  "bytes": 42048,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\heroListBgEmpty.png",
+  "guid": "dfc394492f490824ab4738d18be1417a",
+  "bytes": 40862,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\spineboy-unity\\Equips\\gun-normal.png",
+  "guid": "602e098a046fa6e42a109d3e45c590f2",
+  "bytes": 40758,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\Claw_down.png",
+  "guid": "97b8414d206e8084ab66c02b253eb5c2",
+  "bytes": 40723,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\Star_blue.png",
+  "guid": "789dcfb16c2e2f6459c33e447be77fda",
+  "bytes": 40376,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\FootSoldier\\Equipment\\Equipment.png",
+  "guid": "ddb89f63d0296cf4f8572b0448bb6b30",
+  "bytes": 40334,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\green_trail alpha.png",
+  "guid": "8b585e2d159f8324dbef76b0161fa3ee",
+  "bytes": 39984,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\soul1.png",
+  "guid": "535478fd2c6014a4096483ee89bb3903",
+  "bytes": 39745,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\titleAscendReward.png",
+  "guid": "ac4a3ad760a34fb46902d3a4c6310e42",
+  "bytes": 39315,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\duanwei4.png",
+  "guid": "f7a6f089190c11d4692306494e78d48a",
+  "bytes": 39124,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\coin_turn_anim.png",
+  "guid": "0277d108ab9cc2d4d8eeffc06d72de11",
+  "bytes": 37239,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\spineboy-unity\\Equips\\gun-freeze.png",
+  "guid": "02c4cbcce432ae74bb2d965060e64d29",
+  "bytes": 36729,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\a3.png",
+  "guid": "93ca6a1303e51614d94c92aa991dd3a6",
+  "bytes": 36519,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\CoinTurn.png",
+  "guid": "6deeb37082c77e14282da2896994b81c",
+  "bytes": 36442,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\Coin_anim.png",
+  "guid": "c78393707abff3144b4f022beb792b39",
+  "bytes": 36442,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\spineboy-unity\\Equips\\goggles-normal.png",
+  "guid": "32997c96a91b5904aa064f961fa62937",
+  "bytes": 36014,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\sub bg pack info.png",
+  "guid": "91eeed3d532a6014aaa90cd8c7158aa0",
+  "bytes": 35945,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\common_icon_monthGift.png",
+  "guid": "fa45e807846538341a0f9edc856d64eb",
+  "bytes": 35558,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\newBeast\\btnAds.png",
+  "guid": "4e5b21d15a984be4bbe3eef3e5ccd80c",
+  "bytes": 35539,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\woodbox_flash.png",
+  "guid": "8c5dc927b0c19f54481db9fdbe0df4a6",
+  "bytes": 34784,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\gem3.png",
+  "guid": "75d755881a9c69548b27ca57e36bba23",
+  "bytes": 34665,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\icon week card 1.png",
+  "guid": "a9178cbaabad291438a579db6c2f2957",
+  "bytes": 34639,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\item_revive.png",
+  "guid": "cafb8659b3e86c34c8ee55597c67603e",
+  "bytes": 34593,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\newBeast\\btnConfirm.png",
+  "guid": "2d79458ffae671d45bb070f8633a9a52",
+  "bytes": 34297,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Eyes\\eyes.png",
+  "guid": "49441e5a1682e564694545bd9b509785",
+  "bytes": 33809,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Raggedy Spineboy\\Raggedy Spineboy.png",
+  "guid": "b29bbacbc2368c94a9c942d176ac6f59",
+  "bytes": 33437,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\medal4.png",
+  "guid": "c3f95ac0f7cfd3648bae58780c4196f9",
+  "bytes": 32996,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\default2.png",
+  "guid": "04573422c5b75d64b81e25765eeedd61",
+  "bytes": 32987,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\medal2.png",
+  "guid": "61c408065a457b44db82204b69442a7b",
+  "bytes": 32606,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\gift_box_2.png",
+  "guid": "6c12617327e39c345b71e0689457bc4d",
+  "bytes": 31778,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\level_user_vip.png",
+  "guid": "dd5b79105a591734fa579133119664ed",
+  "bytes": 31518,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Textures\\PolySpriteRingGlowSharp.png",
+  "guid": "caa0646840e91ec43a3092dc602cd67a",
+  "bytes": 31492,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\gem4.png",
+  "guid": "d2d7aaf265be49e4ba86101c2e9f6623",
+  "bytes": 31284,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\gem2.png",
+  "guid": "d119cc705f4a88544b172657b2d812c6",
+  "bytes": 30938,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\strike1aa.jpg",
+  "guid": "8ec543377286957458cd64dd4fade73d",
+  "bytes": 30925,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Textures\\PolySpriteRingGlowSoft.png",
+  "guid": "acc4ff48787c38a4cb25815b24280503",
+  "bytes": 30760,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\heart_alpha.png",
+  "guid": "11b7f1e51b117774489097c9a4765f2f",
+  "bytes": 30607,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\unity-ui-extensions\\Scripts\\Layout\\UIVerticalScrollerDemo\\Sprites\\MrsYakaYochaMedium.png",
+  "guid": "1e2d444ae9d5a4ff1b47ffec28d5165c",
+  "bytes": 30152,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\auto2.png",
+  "guid": "44d038faaebeeb544bbc007739daec79",
+  "bytes": 30042,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\auto3.png",
+  "guid": "d4941744dfbf36a4bbf51c8be9e63ba2",
+  "bytes": 29822,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\leaf.png",
+  "guid": "700bddb409af3704c90966afb389380c",
+  "bytes": 29726,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\auto1.png",
+  "guid": "1316a6c5d9551cf4e9424b17d35c914d",
+  "bytes": 29606,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\StarShop\\bgItem.png",
+  "guid": "10455f6d601389948b20b090eb79e869",
+  "bytes": 29588,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnEvolve.png",
+  "guid": "380e8ce6b4734444fbbe978a6f59ee60",
+  "bytes": 29302,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\auto4.png",
+  "guid": "a1820485e71af644cbb1e8a119c4b595",
+  "bytes": 29249,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\medal1.png",
+  "guid": "c20daf47720be6f4a8114153cb850159",
+  "bytes": 29175,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\90006\\90006.png",
+  "guid": "2141e76930eef964d980e4f94405d895",
+  "bytes": 29162,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\iconMergeMedal1.png",
+  "guid": "0f3bef139d6ce754bbdd691d74d0b34b",
+  "bytes": 28892,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\item bg.png",
+  "guid": "4a4eef3f20647e444b1b9432ea1150f8",
+  "bytes": 28478,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\iconAutoMerge2.png",
+  "guid": "9ba79a0f9ace5f9488e499dc2a5630b7",
+  "bytes": 28219,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\slash4.jpg",
+  "guid": "7f5d65ba099665a4ea460d5da6fa524a",
+  "bytes": 27619,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\medal3.png",
+  "guid": "4437b2a52e448974097f4579e4131171",
+  "bytes": 27543,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\iconLevelHigher3.png",
+  "guid": "fce5b43c700004647a25590faae410a6",
+  "bytes": 27390,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\duanwei3.png",
+  "guid": "2362a30b532cf8042aec69960e3cedf5",
+  "bytes": 27329,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\DPS1.png",
+  "guid": "6804b01620b5751438f5e916b9efc45e",
+  "bytes": 26910,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\wheel.png",
+  "guid": "8178d61b24aa47145a512bb2f926aa10",
+  "bytes": 26611,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\iconDamageBoost3.png",
+  "guid": "4338d22035658074288575ec87858778",
+  "bytes": 26138,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\AnimationSpine\\Cat Effect\\Monkey mob fx\\monkey_mob_effect.png",
+  "guid": "2c3cd8c2cc317574abb189f273dec2a5",
+  "bytes": 25852,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Toxic_Drop_3.jpg",
+  "guid": "c9014a55cecce60448c13a1eaf606cb2",
+  "bytes": 25010,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\StarShop\\soldOut.png",
+  "guid": "b7818099c21412945bfdef3a03483d15",
+  "bytes": 24897,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\iconSlotLockDisable.png",
+  "guid": "a954a7290b4d67141abde5b27eb5fa84",
+  "bytes": 24825,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\btn unpick.png",
+  "guid": "f7b250dcb1c9a72448cdfec32d7c818f",
+  "bytes": 23741,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\gift_box.png",
+  "guid": "f83b5ba742106d54ba0a42d81d508744",
+  "bytes": 23143,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\woodbox.png",
+  "guid": "10b67c6aa0bad044c8f6955f4720c184",
+  "bytes": 22713,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Crush\\Textures\\strike2aa.jpg",
+  "guid": "5d4dba107e931074fbfadaa7ec7dc788",
+  "bytes": 22704,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\1544764567.png",
+  "guid": "66e69ab82684e824e993ff1b20f41ba8",
+  "bytes": 22660,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\btn pick.png",
+  "guid": "d2e84957edaaa3d44ad7020183490f28",
+  "bytes": 22587,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ball.png",
+  "guid": "79ed1f28d50934044b31b94776fbcc69",
+  "bytes": 22530,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnBack.png",
+  "guid": "aedb1fccf5496ad40b4993f6a2730424",
+  "bytes": 22264,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\btnBack.png",
+  "guid": "5ef4faebdc63ac44fa764c41f026e5c5",
+  "bytes": 22264,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\feather.png",
+  "guid": "0519aa45030785f41a786b56efac3126",
+  "bytes": 21661,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\SpawnFaster1.png",
+  "guid": "2e87f5186df1a5d43a9ef828484bdb7e",
+  "bytes": 21625,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\but_change.png",
+  "guid": "701de4d32ec9e3d448a7ba2c5be34543",
+  "bytes": 21589,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\icon_MergeClick.png",
+  "guid": "e9dbe6cf436ee9a4ea11f74c40c7afcf",
+  "bytes": 21216,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\fire_ground.png",
+  "guid": "e0bc3788220e0ed4da715b2d1eeb1a14",
+  "bytes": 21124,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\timeJump4h.png",
+  "guid": "8e1df8afbc755684ea4da1913e0fad08",
+  "bytes": 21002,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\0_VFX_Preset\\Texture\\default2.jpg",
+  "guid": "1e9915640710237449dd1c5d9107715d",
+  "bytes": 20635,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\fire_sword_alpha.png",
+  "guid": "c9cb7517c36aea249a3d541f54befc03",
+  "bytes": 19974,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\enemyLoot.png",
+  "guid": "7abb70169f19f58409a31810bebf285f",
+  "bytes": 19910,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\but_find.png",
+  "guid": "a25b54b409f0c854580c61ed15bef6c5",
+  "bytes": 19803,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\iconPileOfGems.png",
+  "guid": "18a418ee9febd6f4084f1e64b22a3748",
+  "bytes": 19696,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\but_undo.png",
+  "guid": "470a00fd92da9f84ab9488cb663b569b",
+  "bytes": 19667,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ice_sword_alpha.png",
+  "guid": "4ddfe8949804da946bfe55a39a704917",
+  "bytes": 19232,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\btn vip benefits.png",
+  "guid": "b102657bb86f83b49bc1b9615d103ec8",
+  "bytes": 19130,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\item\\gem1.png",
+  "guid": "3b7035935b53900428a1cf2d6220261c",
+  "bytes": 18937,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\stand lock.png",
+  "guid": "fd0892748942bd548b6ae7052507e921",
+  "bytes": 18686,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\lootSlot.png",
+  "guid": "0e387d9c7f37b7a44b312270f7dfaf34",
+  "bytes": 18481,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\daoju05.png",
+  "guid": "e2f4dbe49cb72a44e950910c5525c625",
+  "bytes": 18355,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\but_pause_blue.png",
+  "guid": "be50dfcfd89c5c141aca031e70f06d04",
+  "bytes": 18335,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\bgItemUpg.png",
+  "guid": "5418564fe2f76b44eb53663af54d6e9a",
+  "bytes": 18258,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\slam_down.png",
+  "guid": "9ad476a6de192774facc838b5b4222b6",
+  "bytes": 17981,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\StarShop\\btnRefresh.png",
+  "guid": "c4a30ac577e0ae441a6defb1697dec3d",
+  "bytes": 17673,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\timeJump2h.png",
+  "guid": "072c1446b76ec3c4fad3a4d596c0666c",
+  "bytes": 17592,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\merge_slash3.png",
+  "guid": "98d04b3507ae2bc4c8daa2cf52df4b9f",
+  "bytes": 17306,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\TEX_Wave_Black.jpg",
+  "guid": "02b6f3085d6496648955b33459412921",
+  "bytes": 17299,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ex_outer.png",
+  "guid": "00fc7e60cf2ff774d8d91fbad8757b07",
+  "bytes": 16832,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\boostItemBg.png",
+  "guid": "11fd02968408e2644a3901f338f0a0cf",
+  "bytes": 16602,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Demo\\Textures\\crate.png",
+  "guid": "0d10e595a3cfedd4d8a1f62db48b3d2b",
+  "bytes": 16369,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\tile_gameplay.png",
+  "guid": "a5cdc07e7d2fa334798a3131f04e9f9a",
+  "bytes": 16220,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\bgBoostItemInfo.png",
+  "guid": "3b2c21663a83d9043b99c2068555458d",
+  "bytes": 16080,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\Quick_Buy.png",
+  "guid": "c0642c79a13bfd74b8e37d102e79a431",
+  "bytes": 15344,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\merge_impact.png",
+  "guid": "214b7bc1a64112841a80f8b4f5f91abf",
+  "bytes": 15132,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Asend\\ascendBgReward.png",
+  "guid": "eef208de1184e4240b2445911738ff62",
+  "bytes": 14714,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\newBeast\\bgNextBeast.png",
+  "guid": "62deb8ed14bbfda43baea64974385ad9",
+  "bytes": 14578,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\iconSlotFill.png",
+  "guid": "0d6e625a02cd7e346ba5eb871d336217",
+  "bytes": 14559,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\ui_slots.png",
+  "guid": "ba38bf0e5b2b68a43a7994792a7bd613",
+  "bytes": 14443,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine\\Editor\\spine-unity\\Editor\\GUI\\icon-constraintNib.png",
+  "guid": "de1a4f5ad4bdf1a4ea072c4d59ba87d8",
+  "bytes": 14078,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\btnExit.png",
+  "guid": "b408d959254252641a18007227559ad5",
+  "bytes": 13956,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\skill_Heal.png",
+  "guid": "3c8711fc0002a1743a18d06337abd84c",
+  "bytes": 13907,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\merge_slash1.png",
+  "guid": "d4a7808e8cbc23a4e89d327d6c7ca4a1",
+  "bytes": 13900,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\skill_ReduceDamage.png",
+  "guid": "5977c4be88a343c4fb432443d2101a10",
+  "bytes": 13864,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\btnOffer.png",
+  "guid": "3258c89d6cd68054ab2edbffc0d970d7",
+  "bytes": 13849,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\merge_slash2.png",
+  "guid": "f8affdf2453b16549bc7cb89b4371a99",
+  "bytes": 13126,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ice_snow.png",
+  "guid": "2e66e000ce0c01e42a00c6a330e02b28",
+  "bytes": 12963,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ascend_bg2.png",
+  "guid": "5c7175aed9b7a6f45978d1bd4901a190",
+  "bytes": 12921,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\icon vip.png",
+  "guid": "7ccad74e9e5b8e0458057175d684a564",
+  "bytes": 11840,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\vip_process_bar.png",
+  "guid": "43bac39c55c922f42a7bd849b4955ad1",
+  "bytes": 11755,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\comingsoon bg.png",
+  "guid": "f977b96ed5d5fba4ab15bca19cf5fcf4",
+  "bytes": 11726,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\gold_coin.png",
+  "guid": "60a6f2223876e6d43b129816163dc97d",
+  "bytes": 11700,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\buyPopup\\btnAdd.png",
+  "guid": "664bec0252a8b0644b1a72971a29eb89",
+  "bytes": 11647,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\currencyGem.png",
+  "guid": "7fdb499afea739641bfa104e51f8d4d3",
+  "bytes": 11622,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\StarShop\\StarShop\\iconStar.png",
+  "guid": "3cce6b87b5a553d41afa025db0178fa3",
+  "bytes": 11283,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\Toxic_Skull.jpg",
+  "guid": "0fce087ddd444a744b01e988dc5c9c92",
+  "bytes": 10862,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Demo\\Textures\\groundtile.png",
+  "guid": "68d05d7ca7c08bd44b7445d7d76c4a2f",
+  "bytes": 10373,
+  "refs": 21
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Gold.png",
+  "guid": "af8d0e77e9388cd488967229927cb8dc",
+  "bytes": 10311,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\9.png",
+  "guid": "0c44dc7502a8ed249ac5d00de5b35605",
+  "bytes": 10283,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\raptor-pro-and-mask\\SpriteMask_Mask.png",
+  "guid": "eb942ce288aa1654dbf5ed0cad424cdc",
+  "bytes": 10068,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconSoulBuff.png",
+  "guid": "756e89c89bc05cd4498a6ab0cc936df1",
+  "bytes": 9912,
+  "refs": 4
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\impact_alpha.png",
+  "guid": "01b06cc5d3ff9a2488910c2890f94802",
+  "bytes": 9763,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\bg vip.png",
+  "guid": "1dfa2fa70263ca3419f6659ca5feef19",
+  "bytes": 9712,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\btnUpg1.png",
+  "guid": "04344079aa7bed64a9a477bcc20efbbf",
+  "bytes": 9675,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconAttack.png",
+  "guid": "4785261ccd7b5c04386dc82bdda34cf2",
+  "bytes": 9642,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\light_collum.png",
+  "guid": "a03be4d0fef7eac47b48fd01c4e9be71",
+  "bytes": 9469,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\star.png",
+  "guid": "e49652b3079712347b944c894841c851",
+  "bytes": 9401,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SHOP IAP\\ribbon.png",
+  "guid": "5ff99c931646ff14cb629be9a24383ab",
+  "bytes": 9341,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Demo\\Textures\\groundtile_striped.png",
+  "guid": "1aec3f93032dfde48ab908eda6a03943",
+  "bytes": 9197,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\lighting_2.png",
+  "guid": "12d5b0b495b1bcd4fba86590ba4b5747",
+  "bytes": 9135,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\cloud1.png",
+  "guid": "8d02aa47d9f37744196746a4e82557e1",
+  "bytes": 8994,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\btnUpg2.png",
+  "guid": "923af9f6f693aa74f88f06bb1dbb0417",
+  "bytes": 8929,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\coin.png",
+  "guid": "7098c9c313a581742afb42ff417e5202",
+  "bytes": 8929,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Demo\\Textures\\walltile.png",
+  "guid": "6baebd8129f75864c8a0a9c1141664dd",
+  "bytes": 8690,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Demo\\Textures\\walltile2.png",
+  "guid": "a2b7f2be5e6f41b46893aab42c6b1f7e",
+  "bytes": 8687,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\Upgrade_Popup.png",
+  "guid": "3b2ee05b5571dab49bce0475bea9fad8",
+  "bytes": 8489,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\4.png",
+  "guid": "13ccaa2727247ff40b047b3e34b8f35f",
+  "bytes": 8440,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\8.png",
+  "guid": "9b4c23994df7a7b45857af2c2f129284",
+  "bytes": 8408,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\icon_Quest.png",
+  "guid": "7c3a5f601267c4a4880eaca6b1418df3",
+  "bytes": 8275,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\toolTipStatic.png",
+  "guid": "ffcf3cb9091b1294fafcdd2e78be5ad3",
+  "bytes": 8178,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\iconGemUnlock.png",
+  "guid": "06299fbec20a5e8459bad34d0b3ecf0d",
+  "bytes": 8171,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\newBeast\\iconAds.png",
+  "guid": "32020f828d3c140488e473d4aec71ee2",
+  "bytes": 8069,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Demo\\Textures\\crate_lightmap.png",
+  "guid": "7e65d81e54278f84da297414b8de1b43",
+  "bytes": 7822,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\ui_time_bg.png",
+  "guid": "f1f2cf4986c61454d941a65c1cad5e49",
+  "bytes": 7790,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\stand.png",
+  "guid": "92012f470a9b08c4ba5b4f38c49bd354",
+  "bytes": 7712,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Map\\lootSlot copy 2.png",
+  "guid": "764ec4dbab5558a44a0b70773087a13a",
+  "bytes": 7700,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\shadowBtnQuickBuy.png",
+  "guid": "908d42396e477d64e8d2b76be388adf6",
+  "bytes": 7684,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconLuckBuff.png",
+  "guid": "f8a8cecb73491e646a15d97831f842ae",
+  "bytes": 7683,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\GoldButton.png",
+  "guid": "e0ccb9518fb41fa4c9264c677cbddb49",
+  "bytes": 7551,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Images\\outline-shaders-heading.png",
+  "guid": "de1fb4dac677a6d45ae2ad12a49091c0",
+  "bytes": 7429,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconArrow.png",
+  "guid": "16f4eac99487a1243b9c861d028aaf73",
+  "bytes": 7370,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\2.png",
+  "guid": "84f37944c2f4a51419c5be77206248c7",
+  "bytes": 7288,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\6.png",
+  "guid": "1c747cdf2c446b54b96cf014e61440c6",
+  "bytes": 7232,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\dis_btn.png",
+  "guid": "19cac5d1cea19ac49ba106cbe6c1688e",
+  "bytes": 7221,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnMale.png",
+  "guid": "b77830dc180c6d243b8281d7708be6e9",
+  "bytes": 7156,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\bgCategoryUpg.png",
+  "guid": "6bb37a4c9e4e3924f9116fbd4b58281a",
+  "bytes": 7013,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\PurpleButton.png",
+  "guid": "1079ced13e375b742894285d0a9a8282",
+  "bytes": 6915,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnFemale.png",
+  "guid": "cb628e45e6af6b347b2ec9ac9b7fe53d",
+  "bytes": 6867,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\SpendGem\\iconMindful.png",
+  "guid": "db1e93e37433dfc4c9f9910e0fc2afba",
+  "bytes": 6864,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\trip_claw.png",
+  "guid": "268942a6c7aedf741933035a1ec05e78",
+  "bytes": 6841,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconAdsSmall.png",
+  "guid": "c73af273aa39cd2449415f0c04d6642e",
+  "bytes": 6797,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnRemoveEquipment.png",
+  "guid": "2bcf6a94165fbcf44ad85f13f7076d15",
+  "bytes": 6736,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\stun_circle.png",
+  "guid": "26917fd332ff1da40aab403979af0489",
+  "bytes": 6459,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\core_half.png",
+  "guid": "a58dc863c11310e4cac4aae54113c047",
+  "bytes": 6405,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\iconSlotEmpty.png",
+  "guid": "2c5cecf387b25b54ba7c3d5c1bb691f0",
+  "bytes": 6325,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FX\\coin.png",
+  "guid": "dc541bdd5df1faa47b63010d206e3775",
+  "bytes": 6273,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\lighting_1.png",
+  "guid": "164a7f7fa9b36d440beaca3470d1e5dc",
+  "bytes": 6195,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Textures\\polyspriteline.png",
+  "guid": "e6b414e76227dd24e86e77131f4fe270",
+  "bytes": 6189,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\3.png",
+  "guid": "243b10a467fc5434893e740629703f4b",
+  "bytes": 6174,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\7.png",
+  "guid": "aac94387a1ed5c74dbe93b022dc1d906",
+  "bytes": 6164,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconGemSmall.png",
+  "guid": "544391f2d7601ec45abc1914e1c63f96",
+  "bytes": 6137,
+  "refs": 4
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\upgrade_book.png",
+  "guid": "ada60ea7985a28149a88d06caaa21a3a",
+  "bytes": 6132,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Battle\\btn enter.png",
+  "guid": "977c76b159688b741a7d6a35c29782ae",
+  "bytes": 6027,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ex_core.png",
+  "guid": "afc190b06d6c7f54981ce52c831905b7",
+  "bytes": 5883,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\5.png",
+  "guid": "bb769cdb1275db84785acdb9862a7b5e",
+  "bytes": 5872,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\puzzle\\1.png",
+  "guid": "cc45f8212af6be042b04afc38ad950e1",
+  "bytes": 5837,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconGoldStar.png",
+  "guid": "5200176f6521e2f46bc9672f08ad8ba6",
+  "bytes": 5833,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\buttlet_green.png",
+  "guid": "ef86fc18296cde7439b04417bd884f59",
+  "bytes": 5535,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\merge_flash.png",
+  "guid": "d1aa550a35e1f3545b37a2837adf11c2",
+  "bytes": 5449,
+  "refs": 30
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\icon_RedDot.png",
+  "guid": "a6ba969e36ede6942b2aa164d14bee37",
+  "bytes": 5224,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnGetBeastAds 1.png",
+  "guid": "47ea450aa1756a145b247be5870e9fab",
+  "bytes": 5191,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\gem.png",
+  "guid": "d5305c9613e7e044b8176b9a1ee4c438",
+  "bytes": 5181,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\bgAllItem.png",
+  "guid": "b1657533bf8f65d4888b8f3d975c2eec",
+  "bytes": 5007,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\white_circle.png",
+  "guid": "2bbc0f37f36794c4d9f2ced989366877",
+  "bytes": 5000,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Stat.png",
+  "guid": "20326d006ae0fc54e9c9aca5f780b2b5",
+  "bytes": 4859,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Stretchyman\\stretchyman-emission.png",
+  "guid": "4cad8f072f658544a80ba2b271aec125",
+  "bytes": 4831,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Textures\\PolyGradientMirrored.png",
+  "guid": "641abdbec76a1fc4097224dca89c9d7d",
+  "bytes": 4819,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Polygon Arsenal\\Textures\\PolyGradientVertical.png",
+  "guid": "8357093c88497e0429a9f774609bcf9b",
+  "bytes": 4773,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Crush\\MyFX\\Texture\\slash222.png",
+  "guid": "d1bb50f702c1e0c4f8b067363961f99b",
+  "bytes": 4578,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\heal_cross.png",
+  "guid": "002ffbde5e3f36041aadb953c4cbb6ce",
+  "bytes": 4348,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\equipmentBg.png",
+  "guid": "ce1c8128ef004624ca22baffc64fbdfe",
+  "bytes": 4234,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Boost\\icnoSoulSmall.png",
+  "guid": "0b44aac74087c7c4eb6a71edcf93bc15",
+  "bytes": 4228,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\FreeBoost\\bg2.png",
+  "guid": "a613aa33e4ef43047b36fdcc604d57f2",
+  "bytes": 4032,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\vip_process_bar_bg.png",
+  "guid": "d62bd021925c5fb4c975237d39273477",
+  "bytes": 3909,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\ui_round_organge.png",
+  "guid": "5c06e91dd9b887a43b9a5d9094c07a26",
+  "bytes": 3719,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Upgrade\\currencyBackground.png",
+  "guid": "3552e7f9b27944f48b1705db9b2607d4",
+  "bytes": 3613,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Main\\iconNotice.png",
+  "guid": "808540c64a554154e8ac550f74d6cd25",
+  "bytes": 3439,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine\\Editor\\spine-unity\\Editor\\GUI\\icon-boneNib.png",
+  "guid": "97a43f11e00735147a9dc3dff6d68191",
+  "bytes": 3364,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\iconGoldStarBg.png",
+  "guid": "fb5691bdc596bb2428882e37779d3b32",
+  "bytes": 3320,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\shadowMergeArea.png",
+  "guid": "f487561c9904c2943af74c593836e0e1",
+  "bytes": 3193,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Book\\btnAddEquipment.png",
+  "guid": "465f38e4cad7cae47a3bcab7357d85ac",
+  "bytes": 3100,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine\\Editor\\spine-unity\\Editor\\GUI\\icon-null.png",
+  "guid": "d1de1604dfe4cb64c9d31246a8e43c78",
+  "bytes": 3023,
+  "refs": 6
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\icon_V.png",
+  "guid": "2c0d4d6ce71cb95409f1b81b099251b5",
+  "bytes": 2829,
+  "refs": 2
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\twitter_logo.png",
+  "guid": "f5cb14250ac718446874065e357b5822",
+  "bytes": 2828,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\TelegramIcon #13790.png",
+  "guid": "f62df658df7094647bff69c9cb028d76",
+  "bytes": 2631,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\heal_spark.png",
+  "guid": "85b95d640c0144a43a982a4a88e8c90c",
+  "bytes": 2416,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\Gauge\\Gauge.png",
+  "guid": "a11301aad15ed6b4995485a02a81b132",
+  "bytes": 2275,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\notice_point.png",
+  "guid": "d5711c67bf3fa7c49b059375a1e07ef6",
+  "bytes": 2228,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\fire_rock.png",
+  "guid": "5854c3643f918ec449a239619e730479",
+  "bytes": 2108,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ice_rock.png",
+  "guid": "c0d0f87c53a70934bb4c9341497873af",
+  "bytes": 2060,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Edit.png",
+  "guid": "87a5fea87b00c67458949b39688bd349",
+  "bytes": 1939,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\victory_paper.png",
+  "guid": "7bb62817104db6b4bb9880afb1450773",
+  "bytes": 1757,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\use_boost.png",
+  "guid": "ecb64ef9e16bb654ba07cedeae60b5d3",
+  "bytes": 1744,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\cloud.png",
+  "guid": "f7eed1c31c638bb46a5d472947749c1f",
+  "bytes": 1716,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\stun_star.png",
+  "guid": "aab073ad7478b984fa746684f4a95678",
+  "bytes": 1600,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\discord_logo.png",
+  "guid": "b24e3249c2185f44fbe1bf94d22f233d",
+  "bytes": 1500,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\ascend_tri.png",
+  "guid": "e36817b084a551740a125ed853d41c3d",
+  "bytes": 1464,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\sphere.png",
+  "guid": "017e436b9ce1462429d0805e83c30725",
+  "bytes": 1385,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\heal_star.png",
+  "guid": "8697b34270622eb4699f91f959ed947d",
+  "bytes": 1230,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\game_img_hongfen.png",
+  "guid": "a2b51fd24d4381a4b80db9fb52480676",
+  "bytes": 1142,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\_Tile\\ui_time.png",
+  "guid": "eb1432943cf0be64d9c91e36588210b8",
+  "bytes": 988,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Spine Examples\\Spine Skeletons\\square32.png",
+  "guid": "718074e4e56a5404e824bf8e6571ea7d",
+  "bytes": 950,
+  "refs": 5
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Bar_Currency.png",
+  "guid": "2de7172d7c6bf9c4b88b795bec093b18",
+  "bytes": 837,
+  "refs": 3
+ },
+ {
+  "path": "Assets\\1_FX_AutoBeast\\Image\\trail_dot_green.png",
+  "guid": "04d1e28f7ee5f5d40a3865310bcfd722",
+  "bytes": 439,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\Vip\\next_but.png",
+  "guid": "d5f122598b461244d993f8f5ec9e42c3",
+  "bytes": 360,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\UI Game\\Spawnbar.png",
+  "guid": "4d5693f9dfd6924459a0de3168c7ae86",
+  "bytes": 238,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\Merge Beast\\Image\\BG\\progress_bar.png",
+  "guid": "da328fae0d6e75d438a991b69cfcdc5b",
+  "bytes": 173,
+  "refs": 1
+ },
+ {
+  "path": "Assets\\AllIn1SpriteShader\\Demo\\Textures\\Square.png",
+  "guid": "fab06e0be9375cc4d823efa71629885c",
+  "bytes": 78,
+  "refs": 2
+ }
+]

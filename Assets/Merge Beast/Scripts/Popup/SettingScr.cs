@@ -124,7 +124,7 @@ namespace MergeBeast
         private void OnClickContactUs()
         {
             string email = "iwaygamestudio@gmail.com";
-            string subject = "甜园休闲探秘";
+            string subject = "踏足秘境探险";
             string body = "游戏很好玩！";
 
             Application.OpenURL("mailto:" + email + "?subject=" + subject + "&body=" + body);

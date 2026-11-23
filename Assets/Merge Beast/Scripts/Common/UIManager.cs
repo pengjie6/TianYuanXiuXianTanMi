@@ -126,11 +126,11 @@ namespace MergeBeast
             _btnShowOption?.onClick.AddListener(this.OnClickShowOption);
             btnQuickBuy.onClick.AddListener(OnClickQuickBuy);
             _btnShowBattle.onClick.AddListener(() => ShowBattle());
-            _txtPlayerName.text = $"甜园玩家{PlayerPrefs.GetString(StringDefine.KEY_PLAYER_NAME, UnityEngine.Random.Range(0,99999).ToString())}";
+            _txtPlayerName.text = $"秘境探险家{PlayerPrefs.GetString(StringDefine.KEY_PLAYER_NAME, UnityEngine.Random.Range(0,99999).ToString())}";
 
             if(string.IsNullOrEmpty(PlayerPrefs.GetString(StringDefine.KEY_PLAYER_NAME,string.Empty)))
             {
-                string namepl = $"甜园玩家{ UnityEngine.Random.Range(0, 99999)}";
+                string namepl = $"秘境探险家{ UnityEngine.Random.Range(0, 99999)}";
                 PlayerPrefs.SetString(StringDefine.KEY_PLAYER_NAME, namepl);
             }
 

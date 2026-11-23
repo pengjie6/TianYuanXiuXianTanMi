@@ -17,7 +17,7 @@ MonoBehaviour:
     m_values:
     - ID: 0
       Level: 1
-      Name: 白可
+      Name: 白狼
       Skeleton: {fileID: 11400000, guid: b2ffc49e479ed214b955ea0d164c63b2, type: 2}
     - ID: 1
       Level: 2
@@ -33,7 +33,7 @@ MonoBehaviour:
       Skeleton: {fileID: 11400000, guid: afe111b50acb3984fb11d5566d35088a, type: 2}
     - ID: 4
       Level: 5
-      Name: 炎喵
+      Name: 炎狼
       Skeleton: {fileID: 11400000, guid: 12e8b20eb97502b4c9e4a954655f8d31, type: 2}
     - ID: 5
       Level: 6
@@ -65,7 +65,7 @@ MonoBehaviour:
       Skeleton: {fileID: 11400000, guid: ab7e05776acc8e94db0616e4f8be24fa, type: 2}
     - ID: 12
       Level: 13
-      Name: 武士猫
+      Name: 武士熊
       Skeleton: {fileID: 11400000, guid: 7e1f7a373b6dee14fa909fffdaa4b056, type: 2}
     - ID: 13
       Level: 14
@@ -129,7 +129,7 @@ MonoBehaviour:
       Skeleton: {fileID: 11400000, guid: 162492eb8f4bb244b805f87b6183a270, type: 2}
     - ID: 28
       Level: 29
-      Name: 测试猫
+      Name: 测试兽
       Skeleton: {fileID: 11400000, guid: a981ff65662dd8c4e9d474531ec4d804, type: 2}
     - ID: 29
       Level: 30
@@ -181,7 +181,7 @@ MonoBehaviour:
       Skeleton: {fileID: 11400000, guid: 1c8db3cd12e810640a81a9d21f70f14f, type: 2}
     - ID: 41
       Level: 42
-      Name: 幼龙
+      Name: 幼狼
       Skeleton: {fileID: 11400000, guid: b2ffc49e479ed214b955ea0d164c63b2, type: 2}
     - ID: 42
       Level: 43
@@ -253,7 +253,7 @@ MonoBehaviour:
       Skeleton: {fileID: 11400000, guid: 23a744185d0818b43b9bbd2a89d3b1bf, type: 2}
     - ID: 59
       Level: 60
-      Name: 抱抱猫
+      Name: 抱抱兽
       Skeleton: {fileID: 11400000, guid: f17a84a1bf0562e4593226a007432c31, type: 2}
     - ID: 60
       Level: 61
@@ -273,7 +273,7 @@ MonoBehaviour:
       Skeleton: {fileID: 11400000, guid: 83f1895724511324994a7c8a647f8dc9, type: 2}
     - ID: 64
       Level: 65
-      Name: 小猫
+      Name: 小狐
       Skeleton: {fileID: 11400000, guid: 76d5aa24903a927408161de9c47b4575, type: 2}
     - ID: 65
       Level: 66
