@@ -102,7 +102,16 @@ public class MyShop
 
 public class PlayerData : ScriptableObject
 {
-    public static readonly PlayerData instance = new PlayerData();
+    // ScriptableObject 不能用 new 创建（Unity 会报 warning 且对象不完整），必须走 CreateInstance；
+    // HideAndDontSave 防止场景切换/资源回收把它销毁
+    public static readonly PlayerData instance = CreatePlayerData();
+
+    private static PlayerData CreatePlayerData()
+    {
+        var data = CreateInstance<PlayerData>();
+        data.hideFlags = HideFlags.HideAndDontSave;
+        return data;
+    }
     public int MaxStagePerRegion = 10;
     public int MaxRegion = 4;// region từ 0
     public int GemFirstWin = 10;

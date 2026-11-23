@@ -673,7 +673,7 @@ namespace MergeBeast
 
         private void CheckUnlockTraning()
         {
-            _objUnlock.transform.parent = null;
+            _objUnlock.transform.SetParent(null, false);
             _objUnlock.transform.position = Vector3.right * 100f;
 
             for (int i = 0; i < _lockSlot.Count; i++)
@@ -697,7 +697,7 @@ namespace MergeBeast
 
         private void CheckUnlockBattle()
         {
-            _objUnlockBattle.transform.parent = null;
+            _objUnlockBattle.transform.SetParent(null, false);
             _objUnlockBattle.transform.position = Vector3.right;
 
             if (PlayerPrefs.GetInt($"{StringDefine.BATTLE_SLOT}{0}") == StringDefine.NULL)

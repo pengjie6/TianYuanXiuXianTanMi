@@ -195,7 +195,7 @@ namespace MergeBeast {
                     int gemReward = GetMilestone(mis) * 10;
                     item.BtnGet.GetComponentInChildren<Text>().text = $"领取\n    {gemReward}";
 
-                    Debug.LogError(_allMission[i].MissionType + ", percen: " + _allMission[i].Percent + " total: " + _allMission[i].Total + ", max" + _allMission[i].MaxValue);
+                    Debug.Log(_allMission[i].MissionType + ", percen: " + _allMission[i].Percent + " total: " + _allMission[i].Total + ", max" + _allMission[i].MaxValue);
 
                     if (_allMission[i].Percent >= _allMission[i].Total) {
                         _listMission[i].TxtPercent.text = $"{_allMission[i].Total}/{_allMission[i].Total}";

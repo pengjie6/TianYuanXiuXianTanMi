@@ -40,7 +40,9 @@ public class SkeletonDatas : MonoBehaviour
         else
         {
             instance = this as SkeletonDatas;
-            DontDestroyOnLoad(gameObject);
+            // 挂在 UI 子节点上时 DontDestroyOnLoad 不生效且会刷警告，仅根节点才需要
+            if (transform.parent == null)
+                DontDestroyOnLoad(gameObject);
         }
 
         skeletonBeastPair = new Dictionary<BeastId, SkeletonGraphic>();
